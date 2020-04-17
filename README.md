@@ -1,1 +1,1 @@
-# OOP_Lab_04
+# OOP Lab #04 Inheritance of classes
